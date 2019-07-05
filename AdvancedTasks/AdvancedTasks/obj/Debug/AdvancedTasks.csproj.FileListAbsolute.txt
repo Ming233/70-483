@@ -1,0 +1,7 @@
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\bin\Debug\AdvancedTasks.exe.config
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\bin\Debug\AdvancedTasks.exe
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\bin\Debug\AdvancedTasks.pdb
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\obj\Debug\AdvancedTasks.csprojAssemblyReference.cache
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\obj\Debug\AdvancedTasks.csproj.CoreCompileInputs.cache
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\obj\Debug\AdvancedTasks.exe
+C:\Users\ming.zhu\Codes\70-483\AdvancedTasks\AdvancedTasks\obj\Debug\AdvancedTasks.pdb
