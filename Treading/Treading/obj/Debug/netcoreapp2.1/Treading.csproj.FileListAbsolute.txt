@@ -1,0 +1,11 @@
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\bin\Debug\netcoreapp2.1\Treading.deps.json
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\bin\Debug\netcoreapp2.1\Treading.runtimeconfig.json
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\bin\Debug\netcoreapp2.1\Treading.runtimeconfig.dev.json
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\bin\Debug\netcoreapp2.1\Treading.dll
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\bin\Debug\netcoreapp2.1\Treading.pdb
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.csprojAssemblyReference.cache
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.csproj.CoreCompileInputs.cache
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.AssemblyInfoInputs.cache
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.AssemblyInfo.cs
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.dll
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\Treading\Treading\obj\Debug\netcoreapp2.1\Treading.pdb

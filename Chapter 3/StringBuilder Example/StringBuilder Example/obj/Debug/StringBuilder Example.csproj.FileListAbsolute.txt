@@ -1,0 +1,13 @@
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe.config
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.pdb
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.csprojResolveAssemblyReference.cache
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.exe
+g:\documents\visual studio 2013\Projects\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.pdb
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe.config
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.exe
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\bin\Debug\StringBuilder Example.pdb
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.csprojAssemblyReference.cache
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.csproj.CoreCompileInputs.cache
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.exe
+E:\1_C#_70-483\Chapter 3\StringBuilder Example\StringBuilder Example\obj\Debug\StringBuilder Example.pdb

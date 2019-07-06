@@ -1,0 +1,13 @@
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.exe.config
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.exe
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.pdb
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.csproj.CoreCompileInputs.cache
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.exe
+C:\Users\ming.zhu\OneDrive\Code\70-483\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.pdb
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.exe.config
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.exe
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\bin\Debug\ThreadStaticAttribute.pdb
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.csprojAssemblyReference.cache
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.csproj.CoreCompileInputs.cache
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.exe
+E:\1_MCSD 70-483 C# Complete Preparation Course + Practice Exams\ThreadStaticAttribute\ThreadStaticAttribute\obj\Debug\ThreadStaticAttribute.pdb

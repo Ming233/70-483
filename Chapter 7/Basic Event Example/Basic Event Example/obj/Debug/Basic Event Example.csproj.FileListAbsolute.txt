@@ -1,0 +1,13 @@
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.exe.config
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.pdb
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.csprojResolveAssemblyReference.cache
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.exe
+c:\users\mlong\documents\visual studio 2013\Projects\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.pdb
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.exe.config
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.exe
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\bin\Debug\Basic Event Example.pdb
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.csprojAssemblyReference.cache
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.csproj.CoreCompileInputs.cache
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.exe
+E:\1_C#_70-483\Chapter 7\Basic Event Example\Basic Event Example\obj\Debug\Basic Event Example.pdb
